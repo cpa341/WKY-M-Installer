@@ -14,7 +14,7 @@ sudo rm -r WKY-M
 
 # 克隆WKY-M仓库
 echo "克隆WKY-M仓库..."
-git clone https://github.com/cpa341/WKY-M
+git clone https://githubfast.com/cpa341/WKY-M
 
 # 创建firmware目录
 echo "创建firmware目录..."
